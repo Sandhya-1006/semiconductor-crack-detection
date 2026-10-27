@@ -35,3 +35,9 @@ To demonstrate AI-based image classification for semiconductor inspection and su
 
 ## Author
 Sandhya S
+
+## Live Demo
+
+Try the Semiconductor Wafer Crack Detection dashboard online:
+
+[Open Live Dashboard](https://sandhya-1006-semiconductor-crack-detection-app-xqjjie.streamlit.app/)
